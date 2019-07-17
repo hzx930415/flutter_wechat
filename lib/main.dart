@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:wechat/page/tab_nav.dart';
+import 'package:wechat/navigation/tab_nav.dart';
 
 void main() => runApp(App());
 

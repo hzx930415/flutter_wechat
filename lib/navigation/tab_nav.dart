@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:wechat/const/Colors.dart';
 import 'package:wechat/page/address_page.dart';
 import 'package:wechat/page/find_page.dart';
-import 'package:wechat/page/me_page.dart';
+import 'package:wechat/page/mine_page.dart';
 import 'package:wechat/const/iconfont.dart';
 import 'package:wechat/page/wx_page.dart';
 

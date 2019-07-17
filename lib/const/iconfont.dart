@@ -15,6 +15,7 @@ class IconFont {
   static const IconData iconfontzhizuobiaozhun023104 = const IconData(0xe66a, fontFamily: font_name);
   static const IconData mn_tongxunlu = const IconData(0xe601, fontFamily: font_name);
   static const IconData mn_tongxunlu_fill = const IconData(0xe600, fontFamily: font_name);
+  static const IconData plus = const IconData(0xe65b, fontFamily: font_name);
   static const IconData tongxunlu = const IconData(0xe6c2, fontFamily: font_name);
   static const IconData weixin = const IconData(0xe679, fontFamily: font_name);
   static const IconData weixin1 = const IconData(0xe62b, fontFamily: font_name);
